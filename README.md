@@ -1,4 +1,5 @@
 # Ubp3_UnaBottigliaPerTre
+Progetto creato da: Contino Gaia Natalj, Guzzardella Marianna, Zappalà Rosaria.
 Descrizione contenuto:
 Nella zip vi è una cartella contente delle sottocartelle con le iterazioni.
 Ogni sottocartella ha dentro i file word, pdf, asta ed il codice corrispondente all'iterazione 
