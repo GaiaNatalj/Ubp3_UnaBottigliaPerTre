@@ -1,0 +1,15 @@
+nome, cognome, email
+Azienda,partitaIva, 123.0, tipologia, marchio, provenienza, 8
+Azienda1,partitaIva1, 1234.0, tipologia1, marchio1, provenienza1, 9
+nome, cognome, email
+Azienda,partitaIva, 123.0, tipologia, marchio, provenienza, 8
+Azienda1,partitaIva1, 1234.0, tipologia1, marchio1, provenienza1, 9
+nome, cognome, email
+Azienda,partitaIva, 123.0, tipologia, marchio, provenienza, 8
+Azienda1,partitaIva1, 1234.0, tipologia1, marchio1, provenienza1, 9
+nome, cognome, email
+Azienda,partitaIva, 123.0, tipologia, marchio, provenienza, 8
+Azienda1,partitaIva1, 1234.0, tipologia1, marchio1, provenienza1, 9
+nome, cognome, email
+Azienda,partitaIva, 123.0, tipologia, marchio, provenienza, 8
+Azienda1,partitaIva1, 1234.0, tipologia1, marchio1, provenienza1, 9

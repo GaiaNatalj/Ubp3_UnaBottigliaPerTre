@@ -1,0 +1,1 @@
+Azienda, partitaIva, 123.0, tipologia, marchio, provenienza, 8
