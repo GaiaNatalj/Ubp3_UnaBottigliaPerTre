@@ -1,0 +1,27 @@
+nome, cognome, email
+Azienda,partitaIva, 123.0, tipologia, marchio, provenienza, 8
+Azienda1,partitaIva1, 1234.0, tipologia1, marchio1, provenienza1, 9
+nome, cognome, email
+Azienda,partitaIva, 123.0, tipologia, marchio, provenienza, 8
+Azienda1,partitaIva1, 1234.0, tipologia1, marchio1, provenienza1, 9
+nome, cognome, email
+Azienda,partitaIva, 123.0, tipologia, marchio, provenienza, 8
+Azienda1,partitaIva1, 1234.0, tipologia1, marchio1, provenienza1, 9
+nome, cognome, email
+Azienda,partitaIva, 123.0, tipologia, marchio, provenienza, 8
+Azienda1,partitaIva1, 1234.0, tipologia1, marchio1, provenienza1, 9
+nome, cognome, email
+Azienda,partitaIva, 123.0, tipologia, marchio, provenienza, 8
+Azienda1,partitaIva1, 1234.0, tipologia1, marchio1, provenienza1, 9
+Cliente{nome='nome', cognome='cognome', email='email', numeroTelefono='null', punti=0}
+PrenotazioneVini{quantitàPrenotazione=8, nomeAzienda='Azienda', partitaIva='partitaIva', IDvino=123.0', tipologia='tipologia', marchio='marchio', provenienza='provenienza'}
+PrenotazioneVini{quantitàPrenotazione=9, nomeAzienda='Azienda1', partitaIva='partitaIva1', IDvino=1234.0', tipologia='tipologia1', marchio='marchio1', provenienza='provenienza1'}
+Cliente{nome='nome', cognome='cognome', email='email', numeroTelefono='null', punti=0}
+PrenotazioneVini{quantitàPrenotazione=8, nomeAzienda='Azienda', partitaIva='partitaIva', IDvino=123.0', tipologia='tipologia', marchio='marchio', provenienza='provenienza'}
+PrenotazioneVini{quantitàPrenotazione=9, nomeAzienda='Azienda1', partitaIva='partitaIva1', IDvino=1234.0', tipologia='tipologia1', marchio='marchio1', provenienza='provenienza1'}
+Cliente{nome='nome', cognome='cognome', email='email', numeroTelefono='null', punti=0}
+PrenotazioneVini{quantitàPrenotazione=8, nomeAzienda='Azienda', partitaIva='partitaIva', IDvino=123.0', tipologia='tipologia', marchio='marchio', provenienza='provenienza'}
+PrenotazioneVini{quantitàPrenotazione=9, nomeAzienda='Azienda1', partitaIva='partitaIva1', IDvino=1234.0', tipologia='tipologia1', marchio='marchio1', provenienza='provenienza1'}
+Cliente{nome='nome', cognome='cognome', email='email', numeroTelefono='null', punti=0}
+PrenotazioneVini{quantitàPrenotazione=8, nomeAzienda='Azienda', partitaIva='partitaIva', IDvino=123.0', tipologia='tipologia', marchio='marchio', provenienza='provenienza'}
+PrenotazioneVini{quantitàPrenotazione=9, nomeAzienda='Azienda1', partitaIva='partitaIva1', IDvino=1234.0', tipologia='tipologia1', marchio='marchio1', provenienza='provenienza1'}
